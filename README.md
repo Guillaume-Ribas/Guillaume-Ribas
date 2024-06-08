@@ -5,8 +5,8 @@
 ![Alt Text](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
 
 💬 I'm Guillaume, a french backend developper working principally with PHP and the framework Symfony  
-🌱 I’m currently learning everything that I can @O'clock  
-🔭 Working on my portfolio & some other cool things that i can't wait to show you  
+🌱 I’m currently looking for an apprenticeship around Toulouse
+🔭 Working on my portfolio & some other cool things that I can't wait to show you  
 📫 You can reach me at gribas.dev@gmail.com
 
 
